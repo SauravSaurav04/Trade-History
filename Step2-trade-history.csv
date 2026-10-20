@@ -1,0 +1,25 @@
+Symbol,Side,Open Date,Close Date,Entry Price,Exit Price,Qty,Fee,Swap Fees,Net P&L,Entry Chart Video Link,Exit Chart Video Link
+US30,Buy,"10/16/2026, 18:30:30","10/16/2026, 18:59:49",52270.31,52370.32,0.5,0,0,50.01,https://drive.google.com/file/d/1Z6uE9NZTXI4xxCXv-g4kZiLnhRNF-EtB/view?usp=drive_link,https://drive.google.com/file/d/1z7_F9iepSl3x9XQrFSTbL41UVrEB8QtL/view?usp=drive_link
+US30,Buy,"10/16/2026, 18:20:07","10/16/2026, 18:59:48",52267.19,52364.53,0.25,0,0,24.33,https://drive.google.com/file/d/1Z6uE9NZTXI4xxCXv-g4kZiLnhRNF-EtB/view?usp=drive_link,https://drive.google.com/file/d/1z7_F9iepSl3x9XQrFSTbL41UVrEB8QtL/view?usp=drive_link
+XAUUSD,Buy,"10/15/2026, 23:13:40","10/16/2026, 01:00:04",4153.56,4158.53,0.02,-0.16,0,9.78,https://drive.google.com/file/d/1OqT0oPgJrZaRnD4w0wwJji66Y4-2K50W/view?usp=drive_link,https://drive.google.com/file/d/1_7DahmjaqAWbDvKxQ_mGAGWTA0-wDHMg/view?usp=drive_link
+NAS100,Buy,"10/15/2026, 22:29:53","10/15/2026, 22:50:31",29745.85,29773.02,0.25,0,0,6.79,,https://drive.google.com/file/d/1dDzggz01UZHMN-9bh_NQWYKueJiTvQpa/view?usp=drive_link
+XAUUSD,Sell,"10/15/2026, 19:36:48","10/15/2026, 19:55:11",4149.07,4156.61,0.02,-0.16,0,-15.24,,https://drive.google.com/file/d/1cM5inKf1rpwmUI12YKjE9Q8U4u3JaMPi/view?usp=drive_link
+USDCAD,Sell,"10/15/2026, 19:22:14","10/15/2026, 20:08:11",1.42015,1.41731,0.25,-1,0,49.1,,https://drive.google.com/file/d/1PQsbUB9pxUGsy2fhNZkChxYanJNAQOrt/view?usp=drive_link
+US30,Sell,"10/14/2026, 21:11:13","10/14/2026, 21:45:16",51601.96,51517.72,0.25,0,0,21.06,,https://drive.google.com/file/d/1YC-npzsaO5Pp-dAKMwWRmUq4X7J0HCYU/view?usp=drive_link
+US30,Sell,"10/14/2026, 21:11:12","10/14/2026, 22:10:50",51604.38,51546.27,0.25,0,0,14.53,,https://drive.google.com/file/d/1YC-npzsaO5Pp-dAKMwWRmUq4X7J0HCYU/view?usp=drive_link
+US30,Sell,"10/14/2026, 21:08:03","10/14/2026, 23:22:43",51609.9,51422.29,0.25,0,0,46.9,,https://drive.google.com/file/d/1YC-npzsaO5Pp-dAKMwWRmUq4X7J0HCYU/view?usp=drive_link
+US30,Sell,"10/14/2026, 20:58:48","10/14/2026, 21:03:08",51624.35,51664.8,0.25,0,0,-10.11,,https://drive.google.com/file/d/1ZmmGdyrh0AnRbtRgm-7NAzrYbvpyKRTU/view?usp=drive_link
+XAUUSD,Sell,"10/14/2026, 10:33:49","10/14/2026, 12:56:10",4163.84,4145.96,0.05,-0.42,0,88.98,,https://drive.google.com/file/d/1YC-npzsaO5Pp-dAKMwWRmUq4X7J0HCYU/view?usp=drive_link
+XAUUSD,Sell,"10/14/2026, 08:34:34","10/14/2026, 08:46:41",4163.96,4169.26,0.05,-0.42,0,-26.92,,https://drive.google.com/file/d/1BnyNhHOYePDV1QAafBMCAdF4rIB4xRGF/view?usp=drive_link
+SP500,Sell,"10/13/2026, 22:57:07","10/13/2026, 23:36:12",7795.57,7803.16,3,0,0,-22.77,,
+XAUUSD,Buy,"10/13/2026, 22:36:26","10/13/2026, 23:15:59",4153.72,4153.9,0.05,-0.42,0,0.48,,
+XAUUSD,Buy,"10/13/2026, 20:12:17","10/13/2026, 20:29:39",4169.7,4166.22,0.05,-0.42,0,-17.82,https://drive.google.com/file/d/1UTD6IHPXcnj3euB-g5NzMYeJrEmm1YQ3/view?usp=drive_link,https://drive.google.com/file/d/1hZJDGSMP2q5pRAxKCktrAZCgwUbz_GdK/view?usp=drive_link
+XAUUSD,Buy,"10/13/2026, 19:58:02","10/13/2026, 20:11:11",4168.72,4165.64,0.05,-0.42,0,-15.82,https://drive.google.com/file/d/1PB88J87AbsqtoT1uKA6uDxY72k25VwMB/view?usp=drive_link,
+NAS100,Buy,"10/13/2026, 19:31:14","10/13/2026, 20:23:32",30583.96,30476.47,0.25,0,0,-26.87,https://drive.google.com/file/d/1njN5T5YSvgKabma5DYj0umM_tWAkeb7x/view?usp=drive_link,
+GBPUSD,Sell,"10/13/2026, 19:27:30","10/13/2026, 20:17:22",1.3241,1.32443,0.5,-2,0,-18.5,https://drive.google.com/file/d/1-i8J9WAziIncb9z1OafSwUcQw0ExTwiq/view?usp=drive_link,https://drive.google.com/file/d/1qDMK_fS1PT3k1JhqZ1C17hUYI2TIrkfT/view?usp=drive_link
+XAUUSD,Sell,"10/13/2026, 00:07:57","10/13/2026, 01:59:32",4168.03,4171.1,0.05,-0.42,0,-15.77,https://drive.google.com/file/d/1XrVlNdltjdRPmbhja0yk8taToCWc8InK/view?usp=drive_link,
+US30,Sell,"10/12/2026, 23:47:26","10/13/2026, 00:54:29",51815.55,51813.97,0.5,0,0,0.79,https://drive.google.com/file/d/14OsHQX1YaPjrEdzDyZWmfdfy-dfLtGER/view?usp=drive_link,https://drive.google.com/file/d/19QGOHwtB2L7cAxUHY1UlHuvhSPim5ITh/view?usp=drive_link
+XAUUSD,Sell,"10/12/2026, 22:59:53","10/12/2026, 23:30:16",4166,4172.01,0.05,-0.42,0,-30.47,,https://drive.google.com/file/d/1SetwiwvAcHl-oIRDbTd2wVRX7b1NxcoX/view?usp=drive_link
+XAUUSD,Sell,"10/12/2026, 20:52:12","10/12/2026, 22:37:40",4167.76,4167.31,0.05,-0.42,0,1.83,,https://drive.google.com/file/d/1nzXktlOsVK4VJX6QPWIv8OiTGphkRoPI/view?usp=drive_link
+XAUUSD,Sell,"10/12/2026, 20:46:55","10/12/2026, 22:00:25",4168.54,4163.65,0.05,-0.42,0,24.03,,https://drive.google.com/file/d/1nzXktlOsVK4VJX6QPWIv8OiTGphkRoPI/view?usp=drive_link
+XAUUSD,Sell,"10/12/2026, 20:19:42","10/12/2026, 20:44:49",4164.81,4171.09,0.02,-0.16,0,-12.72,,https://drive.google.com/file/d/1nzXktlOsVK4VJX6QPWIv8OiTGphkRoPI/view?usp=drive_link
